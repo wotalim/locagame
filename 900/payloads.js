@@ -7,7 +7,7 @@ function loadPayload(pl){
 }
 
 function executependingqueue(pl){
-	if(pl=="App2USB"){
+	if(pl=="ApApp2USBp2USB"){
 		app2usb();
 	}else if(pl=="Disable ASLR"){
 		disableaslr();
